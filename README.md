@@ -52,10 +52,10 @@ large-scale CCPD (Real-world) benchmark:
 
 | Model           | Category                 | PSNR (dB) ↑ | Char Acc ↑ | Word Acc ↑ |
 | :-------------- | :----------------------- | :---------: | :--------: | :--------: |
-| ESRGAN \[4\]    | Generic CNN              | 23.31       | 45.4%      | 0.9%       |
-| TSRN \[8\]      | Text-Specific CNN        | 22.68       | 51.9%      | 1.2%       |
-| SFT-GAN \[10\]  | Semantic CNN             | 22.76       | 52.8%      | 1.6%       |
-| SwinIR \[5\]    | General Transformer      | 19.14       | 81.3%      | 31.4%      |
+| ESRGAN          | Generic CNN              | 23.31       | 45.4%      | 0.9%       |
+| TSRN            | Text-Specific CNN        | 22.68       | 51.9%      | 1.2%       |
+| SFT-GAN         | Semantic CNN             | 22.76       | 52.8%      | 1.6%       |
+| SwinIR          | General Transformer      | 19.14       | 81.3%      | 31.4%      |
 | **SMPT (Ours)** | **Proposed Transformer** | **23.18**   | **94.0%**  | **82.5%**  |
 
 Discussion: Although ESRGAN has superior PSNR, it is unable to preserve semantic
