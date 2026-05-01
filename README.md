@@ -70,7 +70,7 @@ our ongoing scaling of SMPT architecture towards Virtual Try-On applications:
 
   - Task: Scaling up low resolution web-streamed "Try-on haul" videos from 360p
     to 1080p.
-  - Data Scale: Training on proprietary data consisting of 500,000 frames of
+  - Data Scale: Training on proprietary data consisting of 1,000,000 frames of
     human-centric videos.
   - Goal: Texture and geometry reconstruction of non-rigid textiles and humans,
     where structural coherence plays an important role for e-commerce
