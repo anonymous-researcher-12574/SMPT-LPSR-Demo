@@ -1,7 +1,3 @@
-دقیقاً بر اساس متن شما و بدون تغییر حتی یک کلمه، ساختار استاندارد README.md
-(فرمت Markdown) را برایتان آماده کرده‌ام. می‌توانید مستقیماً این متن را کپی
-و در فایل گیت‌هاب خود جایگذاری کنید:
-
 SMPT: Spatial Masked Predictive Transformer (ECCV 2026 Submission #12574)
 
 This repository serves as the official anonymous validation hub for SMPT,
@@ -79,10 +75,6 @@ our ongoing scaling of SMPT architecture towards Virtual Try-On applications:
   - Goal: Texture and geometry reconstruction of non-rigid textiles and humans,
     where structural coherence plays an important role for e-commerce
     applications.
-
-Disclamer: The following code repository is associated with an ECCV 2026
-anonymous review process. To preserve double-blind reviewing principles, all
-city names and authors' identities have been removed from this repository.
 
 Disclamer: The following code repository is associated with an ECCV 2026
 anonymous review process. To preserve double-blind reviewing principles, all
